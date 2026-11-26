@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#123524"/></linearGradient></defs>
+  <rect width="1200" height="320" fill="url(#g)"/>
+  <text x="64" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#f8fafc">winapi-surface-auditor</text>
+  <text x="66" y="205" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#cbd5e1">Windows API surface review for defenders</text>
+  <text x="66" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#86efac">Defensive security tooling by Priyanshu Kumar Thakur (gravion-ux)</text>
+</svg>
