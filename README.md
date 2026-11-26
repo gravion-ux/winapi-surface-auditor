@@ -6,10 +6,9 @@ Defensive code-review tool that scans C/C++ source for Windows API usage
 patterns associated with cross-process injection, input interception and
 legacy process creation — and explains the safer alternative for each hit.
 
-Built as applied coursework for the **RTL Certified Offensive Windows API
-(COWA)** credential: understanding offensive API surface is what makes the
-defensive review possible. This tool is for reviewing code you own or are
-authorised to audit. It contains no exploit code.
+Built as applied coursework: understanding offensive API surface is what
+makes the defensive review possible. This tool is for reviewing code you
+own or are authorised to audit. It contains no exploit code.
 
 ## Install
 
